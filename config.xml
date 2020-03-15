@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>布丁布丁吃什麼？</name>
-    <description>這顆布丁是在無聊的世界中找尋樂趣的一種不能吃的食物。喜歡動漫畫、喜歡遊戲、喜歡程式、喜歡跟世間脫節的生活步調中，撰寫blog──布丁布丁吃什麼？ http://blog.pulipuli.info/</description>
-    <author href="http://blog.pulipuli.info" email="pulipuli.chen@gmail.com">布丁布丁吃布丁</author>
+    <name>台灣隆波帕默學會</name>
+    <description>一群在臺灣的佛弟子，渴求仰慕佛陀的真實教法，在福德因緣的庇佑下，得以親近隆波帕默尊者，接受他的指導修習四念處；為了幫助更多在臺灣的學佛人，克服空間和語言的阻礙，能夠聽聞隆波帕默尊者的教導開示，接受尊者指定的老師指導禪修，故成立學會以利推廣活動。 https://pramote.teaching.com</description>
+    <author href="https://pramote-teaching.com" email="pramote.teaching@gmail.com">台灣隆波帕默學會</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
